@@ -9,4 +9,4 @@ Das Projekt clonen oder herunterladen, dann bei InstaBot('','') den Namen des Ac
 
 ## License
 
-This project is licensed under the MIT License - see the [LICE
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
