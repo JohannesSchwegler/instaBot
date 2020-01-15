@@ -105,8 +105,8 @@ class InstaBot:
             .click()
         return names
 
-
-my_bot = InstaBot('webdeveloper.ux', 'Gibson96')
+#Name und Passwort hier eintragen
+my_bot = InstaBot('','')
 #my_bot.like_All_Feed()
 my_bot.like_TenPosts('html')
 #my_bot.get_unfollowers()
